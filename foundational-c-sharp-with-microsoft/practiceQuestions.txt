@@ -1,0 +1,123 @@
+1. If you have two string variables, 'firstName' and 'lastName', how would you concatenate them to form a full name in C#? 
+firstName & " " & lastName
+firstName.concat(lastName)
+firstName + " " + lastName
+2. When formatting a string in C# to include special characters like tabs and new lines, which escape sequence should you use to insert a tab? 
+\n
+\t
+\r
+3. In which situation would it be more efficient to use string interpolation instead of concatenation in C#? 
+When you need to concatenate just two short string literals.
+When you need to construct a complex message with multiple variables and literals.
+When you need to append characters to a string in a loop.
+4. If you need to include a backslash in your C# string, what escape sequence should you use? 
+\
+\b
+\s
+5. Your application needs to display a message combining a user's first and last name into a greeting. Which method should you choose to combine these strings for better readability and maintenance? 
+Use a loop to append each character of the first name to the last name.
+Use string interpolation to combine the name variables into a greeting message.
+Use string concatenation to append the last name to the first name.
+6. Which symbol is prefixed to a string in C# to enable interpolation? 
+$
+@
+#
+7. You encounter a syntax error while trying to insert a double-quote character in a C# string. What escape sequence should you use to resolve this? 
+Use the escape sequence \".
+Use the escape sequence \n.
+Use the escape sequence \'.
+8. Which escape sequence would you use to insert a tab character in a C# string? 
+\r
+\t
+\n
+9. You write Console.WriteLine("Path: c:\data\files") but encounter an error. What is the cause? 
+The escape sequence \d is not recognized in C#. Use \ for backslashes.
+The string is too long and needs to be split.
+The colon should be removed from the string.
+
+
+
+1. Which of the following lines of code will output the text Windows 11?
+
+Console.WriteLine("Windows " + 7 + 4);
+
+Console.WriteLine($"Windows {1 + 1}");
+
+Console.Write("Windows " + 1 + 1);
+Correct
+2. What is the value of the following result? int result = 3 + 1 * 5 / 2;
+
+10
+
+5
+Correct  (5/2 = 2 not 2.5)
+
+6
+3. What will be the result of the following line of code? Console.WriteLine(5 / 10);
+
+0.5
+
+0
+Correct
+
+1
+4. Which of the following lines of code uses the addition assignment operator?
+
+value += 5;
+Correct
+
+value++;
+
+value = value + 5;
+
+
+
+
+1. What does the following code accomplish? var value = (int) dividend / (int) divisor;
+
+Casts the operands to truncate the result.
+Correct
+
+Declares an explicitly typed int variable.
+
+Casts the operands to prevent truncating the result.
+2. What does the $ symbol do when used in a string in C#?
+
+It allows you to use string interpolation to include variables in the string.
+Correct
+
+It indicates that the string is a regular expression.
+
+It indicates that the string is a verbatim string literal.
+3. What is wrong with the following code? int sophiaSum; Console.WriteLine("Sophia: " + sophiaSum);
+
+sophiaSum isn't initialized before use.
+Correct
+
+sophiaSum isn't implicitly typed to a string.
+
+sophiaSum should use the var keyword.
+
+
+
+
+
+
+
+1. Suppose decimal gradePointAverage = 3.99872831m;. What is the value of (int) gradePointAverage?
+
+3.99
+
+4
+
+3
+Correct
+2. In the following code decimal x = 7 / 5; why does x = 1?
+
+Using the decimal data type truncates the fraction.
+
+Dividing two integers performs integer division.
+Correct
+
+This line of code has an error.
+
