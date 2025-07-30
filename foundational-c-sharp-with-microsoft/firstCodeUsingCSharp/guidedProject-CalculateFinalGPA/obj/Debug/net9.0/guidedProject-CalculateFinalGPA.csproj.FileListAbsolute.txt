@@ -1,0 +1,15 @@
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/bin/Debug/net9.0/guidedProject-CalculateFinalGPA
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/bin/Debug/net9.0/guidedProject-CalculateFinalGPA.deps.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/bin/Debug/net9.0/guidedProject-CalculateFinalGPA.runtimeconfig.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/bin/Debug/net9.0/guidedProject-CalculateFinalGPA.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/bin/Debug/net9.0/guidedProject-CalculateFinalGPA.pdb
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.GeneratedMSBuildEditorConfig.editorconfig
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.AssemblyInfoInputs.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.AssemblyInfo.cs
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.csproj.CoreCompileInputs.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.sourcelink.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/refint/guidedProject-CalculateFinalGPA.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.pdb
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/guidedProject-CalculateFinalGPA.genruntimeconfig.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/firstCodeUsingCSharp/guidedProject-CalculateFinalGPA/obj/Debug/net9.0/ref/guidedProject-CalculateFinalGPA.dll

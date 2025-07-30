@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guidedProject-CalculateAndPrintStudentGrades", "guidedProject-CalculateAndPrintStudentGrades.csproj", "{2DDA822F-9D89-4FC5-610E-54E6907DDFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DDA822F-9D89-4FC5-610E-54E6907DDFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDA822F-9D89-4FC5-610E-54E6907DDFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDA822F-9D89-4FC5-610E-54E6907DDFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDA822F-9D89-4FC5-610E-54E6907DDFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1108A87-53FE-4D1D-AEF9-C750CDB14AF0}
+	EndGlobalSection
+EndGlobal
