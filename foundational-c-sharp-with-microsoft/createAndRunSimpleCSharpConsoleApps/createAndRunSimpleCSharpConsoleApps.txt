@@ -1,0 +1,102 @@
+1. Install and Configure Visual Studio Code
+
+2. Call Methods From the .NET Class Library Using C#
+
+INTRODUCTION
+
+- C# library of functionality enables creating app, accessing data in files or on the internet, perform advanced mathematical operations...
+-  This module:
+    -- Write code that calls methods in the .NET Class Library.
+    -- Use an instance of .NET Class Library classes to call methods that maintain state.
+    -- Use Intellisense in Visual Studio Code to learn more about a method, including its overloaded versions, its return value type, and its input parameter data types.
+    -- Use learn.microsoft.com to research what a method does, its overloaded versions, its return value type, its input parameters and what each parameter represents, and more.
+
+- .NET Libraries
+    -- Hosts and manages code as it executes on the end user's computer.
+    -- .NET Class Library is a prewritten collection of coding resources that can be used in an application.
+
+- .NET Class Library
+  -- An Organised collection of programming resources. Contains thousands of methods, including the "Console" class for devs working on console apps.
+  -- The "Console" CLASS includes METHODS for input and output operations such as "Write()", "WriteLine()", "Read()", "ReadLine()", and many others.
+  -- Devs keep related methods in a single class... e.g. Any methods that can send or receive info from a console window are collected into the "System.Console" class.
+  -- Datatypes are also part of the .NET Class Library... e.g. "string", "int", are available through classes in the .NET Class Library... e.g the "string" class has methods for converting text to upper & lowercase (ToUpper, ToLower)
+
+- How To Find Classes in .NET Class Library?
+  -- First - Type of project.
+  -- Second - Search 3rd party sources to narrow down the seach.
+  -- Finally - Experiment with small code projects to see how classes and methods work.
+
+- Exercise - Call methods of a .NET Class
+  -- How to call methods in the .NET Class Library:
+	- Type class name
+	- Add the Member Access Operator "." symbol.
+	- Methods name
+	- Add the Method Invocation Operator, "()"
+	- Specify the arguments passed between the Method Invocation Operator.
+	- Optionally:
+	  -- Pass additional values,
+	  -- Accept a return value.
+
+- Stateful vs Stateless Methods
+  -- The term STATE is used to describe the condition of the execution environment at a specific moment in time... As code executes, values are stored in variables... At any moment, the current state of the app is the collection of all values stored in memory.
+  -- Some methods dont rely on the current state of the app to work properly, i.e. STATELESS methods are implemented to workm without referencing or changing any value already stored in memory... Stateles methods are also known as STATIC Methods...
+	- e.g. Console.WriteLine method doesnt rely on instance memory, it performs its function and finishes without impacting the state of the application.
+  -- STATEFUL methods are designed to rely on values stored in memory by previously executed lines of code... Or modify the state of the app by updating or storing new values in memory... aka INSTANCE Methods.
+  -- A single CLASS can store both STATEFUL & STATELESS methods, but to call STATEFUL methods, an INSTANCE of a class must first be created so that the method can access it.
+	- e.g. Random dice = new Random();
+	  -- The NEW operator does important things:
+	    -> requests an address in the computers memory large enough to store a new object based on the Random class
+	    -> Creates a new object, and stores it at the memory address.
+	    -> Returns the memory address so that it can be saved in the dice object.
+
+- Exercise - Return Values and Parameters of Methods
+
+-- Return Values
+    - Some methods are designed to complete functions and end quietly, no need to return a value when they finish... aka VOID methods
+    - Other methods return values upon completion... The RETURN VALUE is typically the result of an operation... It is the primary way the method communicates back to the code that calls it.
+    - Methods can return any data type, even other classes... e.g. String class has some methods that return a string, some that return an integer, and some that return a Boolean.
+    - When calling a method that returns a value, assign the return value to a variable... the value can be used later in the code.
+
+-- Method Parameters and Arguments in the Calling Statement
+    - Values can be passed into methods when called... These values are called ARGUMENTS.
+    - Methods use arguments to assign values to the PARAMETERS that are defined in the methods signature... A method can require one or more parameter to accomplish a task, or none at all. e.g. Random.Next() uses parameters to configure the upper and lower boundries of the return value.
+    Methods use METHOD SIGNATURES to define the number of parameters that the method will accept... as well as the data type of each parameter...  The coding statement calls the method must adhere the requirements specified by the method signature.
+    - When a caller invokes a method, it provides concrete values called arguments for each parameter... The argument name, if  used, doesnt have to be the same as the parameter name.
+    - e.g. Random dice = new Random();
+	   int roll = dice.Next(1,7);
+	   Console.WriteLine(roll)
+	-> Fist line creates the instance of the Random class named dice.
+	-> Second line uses the dice.Next(1,7); method to assign a random value to an integer roll.
+	-> The Next() method includes a signature that accepts 2 parameters of type int, used to configure upper and lower boundaries of the random number thats returned.
+
+- Overloaded Methods
+    - Overloaded Method Signatures enable methods to be called with or without arguments.
+    - An Overloaded method is definded with multiple method signatures... They provide different ways to call the method or provide different data types of data.
+ 
+  
+3. Add Decision Logic to Your Code Using if, else, and else if statements in C#
+
+- Exercise - Create Decision Logic with if Statements
+  -- Code Brances - Code that implements different execution paths, e.g. if-statements.
+  -- If-Statements relies on a Boolean expression that is enclosed in a set of parentheses... If the expression is true, the code is executed, if not, .NET Runtime ignores the code and does not execute it.
+
+  -- What is a Boolean expression?
+    - Any code that returns either TRUE or FALSE...
+    - Boolean expressions can be created by using operators to compare two values. Operators include:
+	a) ==, the "equals" operator, to test for equality
+	b) >, the "greater than" operator, to test that the value on the left is greater than the value on the right
+	c) <, the "less than" operator, to test that the value on the left is less than the value on the right
+	d) >=, the "greater than or equal to" operator
+	e) <=, the "less than or equal to" operator
+and so on
+
+  -- What is a code block?
+    - A code block is a collection of code defined between curly brace symbol { }... It represents a complete unit of code that has a single purpose... All lines of code are executed if the Boolean expression is true.
+    - Code blocks can contain other code blocks, i.e. nested.
+
+
+4. Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
+5. Create Readable Code with Conventions, Whitespace, and Comments in C#
+6. Guided Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+7. Challenge Project - Develop foreach and if-elseif-else Structures to Process Array Data in C#
+8. Trophy - Create and Run Simple C# Console Applications

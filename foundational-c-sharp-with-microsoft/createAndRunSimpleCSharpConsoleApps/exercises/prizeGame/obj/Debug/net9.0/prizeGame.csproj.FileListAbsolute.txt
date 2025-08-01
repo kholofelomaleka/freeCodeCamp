@@ -1,0 +1,15 @@
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/bin/Debug/net9.0/prizeGame
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/bin/Debug/net9.0/prizeGame.deps.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/bin/Debug/net9.0/prizeGame.runtimeconfig.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/bin/Debug/net9.0/prizeGame.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/bin/Debug/net9.0/prizeGame.pdb
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.AssemblyInfoInputs.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.AssemblyInfo.cs
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.csproj.CoreCompileInputs.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.sourcelink.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/refint/prizeGame.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.pdb
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/prizeGame.genruntimeconfig.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/prizeGame/obj/Debug/net9.0/ref/prizeGame.dll

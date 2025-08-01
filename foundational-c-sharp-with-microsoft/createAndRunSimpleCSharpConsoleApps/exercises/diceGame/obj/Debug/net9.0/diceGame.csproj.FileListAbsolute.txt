@@ -1,0 +1,15 @@
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/bin/Debug/net9.0/diceGame
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/bin/Debug/net9.0/diceGame.deps.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/bin/Debug/net9.0/diceGame.runtimeconfig.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/bin/Debug/net9.0/diceGame.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/bin/Debug/net9.0/diceGame.pdb
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.AssemblyInfoInputs.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.AssemblyInfo.cs
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.csproj.CoreCompileInputs.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.sourcelink.json
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/refint/diceGame.dll
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.pdb
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/diceGame.genruntimeconfig.cache
+/home/friday/Documents/git_repos/freeCodeCamp/foundational-c-sharp-with-microsoft/createAndRunSimpleCSharpConsoleApps/exercises/diceGame/obj/Debug/net9.0/ref/diceGame.dll

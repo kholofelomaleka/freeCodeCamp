@@ -56,8 +56,100 @@ dotnet build
 
 Call Methods From the .NET Class Library Using C#
 
-Call Methods From the .NET Class Library Using C#
-Not Passed
+ What is a return value?
+
+It's a value type returned by a method.
+Correct! This is the correct definition of a return value.
+
+
+An argument in a method call is referred to as a return value inside the method.
+
+It's a string value.
+2. What are method parameters?
+
+Variables that are used inside a method.
+Correct! Method parameters are variables used inside the method. The method definition specifies the names and types of any parameters that are required. When a caller invokes the method, the calling statement provides concrete values, called arguments, for each parameter.
+
+
+Values returned by a method.
+
+Variables that are passed into a method by the calling statement.
+Incorrect. The values passed to a method in the calling statement are referred to as arguments.
+
+3. What is an overloaded method?
+
+A method that returns a value type.
+
+A method with more than five parameters.
+
+It is a method that supports several implementations of the method, each with a unique method signature.
+Correct! This is the correct definition of an overloaded method.
+
+4. How does IntelliSense help developers?
+
+IntelliSense can help developers write code more quickly.
+Correct! IntelliSense can catch misspelling, incorrect usage, and suggest corrections. These things speed up the coding process.
+
+
+IntelliSense helps developers refactor their code.
+
+IntelliSense can change the "theme" of an IDE.
+
+
+1. What is an object?
+
+A memory address.
+
+A stateless class.
+
+An instance of a class.
+Correct
+2. Which of the following statements is true?
+
+The .NET Class Library always defines overloaded methods for every method.
+
+The .NET Class Library contains definitions for data types used in C#.
+Correct
+
+The .NET Class Library includes so many classes that it actually increases development time.
+3. Which of the following symbols represent the method invocation operator required to execute a method?
+
+.
+
+{}
+
+()
+
+
+
+1. Given that int x = 5, which of the following Boolean expressions is valid and evaluates to true?
+
+x < 5.
+
+x > 5.
+
+x == 5.
+Correct
+2. Which of the choices below is not a valid operator in C#?
+
+%%.
+Correct
+
+&&.
+
+||.
+3. The following answer choices describe if statement syntax. Which of the descriptions is correct?
+
+The Boolean expression evaluated by an if statement is optional.
+
+An else statement can't be placed before an else if statement.
+Correct
+
+The else statement is required when an if statement includes an else if.
+
+
+
+
 Add Decision Logic to Your Code Using if, else, and else if statements in C#
 Not Passed
 Store and Iterate Through Sequences of Data Using Arrays and the foreach Statement in C#
